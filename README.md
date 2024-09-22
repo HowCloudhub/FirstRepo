@@ -8,7 +8,7 @@
 * %  Percent sign  
 * ^  Caret mark  
 * &  ampersand symbol  
-\*  asterisk symbol  
+* \*  asterisk symbol  
 * \(  Starting parentheses   
 * \)  Ending parentheses  
 * _  Underscore  
