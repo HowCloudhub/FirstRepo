@@ -35,3 +35,4 @@ Shortcuts I would like to start using:
 # Lab 6 works
 
 - [Link to my other file](docs/cli.md)
+- [Link to my file again](docs/cli.md)
