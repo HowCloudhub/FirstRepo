@@ -31,3 +31,7 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Win-L (Lock desktop)
+
+# Lab 6 works
+
+- [Link to my other file](docs/cli.md)
